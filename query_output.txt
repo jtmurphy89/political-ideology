@@ -1,0 +1,74 @@
+Top terms for singular value 1: receives, zinke, zelníčková, yahoo, wollman, woe, wme, windfarm, whopper, weisselberg, warranted, waitlists, varying, variability, va
+Top docs for singular value 1: Donald Trump, Warren G. Harding, William McKinley, Calvin Coolidge, Harry S. Truman, Woodrow Wilson, Herbert Hoover, Richard Nixon, Barack Obama, Dwight D. Eisenhower
+
+
+
+Top terms for singular value 2: roosevelt, taft, wilson, mckinley, harding, hoover, theodore, new, coolidge, fdr, war, progressive, eleanor, 1912, york
+Top docs for singular value 2: Theodore Roosevelt, Franklin D. Roosevelt, William Howard Taft, Woodrow Wilson, William McKinley, Warren G. Harding, Herbert Hoover, Calvin Coolidge, Harry S. Truman, Dwight D. Eisenhower
+
+
+
+Top terms for singular value 3: kennedy, nixon, johnson, eisenhower, ford, carter, truman, vietnam, president, 1963, coolidge, lyndon, vietnamese, soviet, reagan
+Top docs for singular value 3: John F. Kennedy, Lyndon B. Johnson, Richard Nixon, Dwight D. Eisenhower, Gerald Ford, Harry S. Truman, Jimmy Carter, Ronald Reagan, Calvin Coolidge, Herbert Hoover
+
+
+
+Top terms for singular value 4: roosevelt, kennedy, johnson, nixon, eisenhower, bush, truman, vietnam, ford, fdr, eleanor, war, 1963, lyndon, new
+Top docs for singular value 4: Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy, Lyndon B. Johnson, Richard Nixon, Dwight D. Eisenhower, Harry S. Truman, George H. W. Bush, George W. Bush, Gerald Ford
+
+
+
+Top terms for singular value 5: bush, kennedy, harding, johnson, coolidge, hoover, eisenhower, truman, war, texas, 1963, lyndon, john, daugherty, vietnam
+Top docs for singular value 5: Lyndon B. Johnson, John F. Kennedy, Warren G. Harding, George H. W. Bush, George W. Bush, Calvin Coolidge, Herbert Hoover, Dwight D. Eisenhower, Harry S. Truman, Woodrow Wilson
+
+
+
+Top terms for singular value 6: trump, kennedy, obama, johnson, clinton, truman, eisenhower, 2012, retrieved, 2010, 1963, harry, 2016, casino, pt
+Top docs for singular value 6: Donald Trump, John F. Kennedy, Barack Obama, Lyndon B. Johnson, Bill Clinton, Harry S. Truman, Dwight D. Eisenhower, George W. Bush, Herbert Hoover, Franklin D. Roosevelt
+
+
+
+Top terms for singular value 7: truman, hoover, eisenhower, retrieved, harry, 2012, reagan, herbert, wilson, war, missouri, roosevelt, world, isbn, 1945
+Top docs for singular value 7: Harry S. Truman, Herbert Hoover, Dwight D. Eisenhower, Franklin D. Roosevelt, Ronald Reagan, Woodrow Wilson, Calvin Coolidge, George H. W. Bush, George W. Bush, Richard Nixon
+
+
+
+Top terms for singular value 8: mckinley, truman, eisenhower, trump, hanna, retrieved, nixon, canton, harry, 2012, army, ohio, spain, hayes, sherman
+Top docs for singular value 8: William McKinley, Harry S. Truman, Dwight D. Eisenhower, Donald Trump, Richard Nixon, George H. W. Bush, Ronald Reagan, Calvin Coolidge, George W. Bush, Warren G. Harding
+
+
+
+Top terms for singular value 9: trump, nixon, wilson, ford, harding, eisenhower, bush, taft, casino, 2016, estate, whittier, hotel, bankruptcy, nbc
+Top docs for singular value 9: Donald Trump, Richard Nixon, Woodrow Wilson, Gerald Ford, Warren G. Harding, Dwight D. Eisenhower, George H. W. Bush, William Howard Taft, George W. Bush, Ronald Reagan
+
+
+
+Top terms for singular value 10: coolidge, hoover, roosevelt, trump, ford, johnson, kennedy, nixon, herbert, calvin, radio, curtis, fdr, 1933, northampton
+Top docs for singular value 10: Calvin Coolidge, Herbert Hoover, Donald Trump, Franklin D. Roosevelt, Theodore Roosevelt, Gerald Ford, Lyndon B. Johnson, John F. Kennedy, Richard Nixon, Ronald Reagan
+
+
+
+Query: Conservatism_in_the_United_States
+avg. distance to Democratic presidents = 0.334555983449
+avg. distance to Republican presidents = 0.330904197896
+
+
+
+Query: Modern_liberalism_in_the_United_States
+avg. distance to Democratic presidents = 0.354352856956
+avg. distance to Republican presidents = 0.304211481238
+
+
+
+Query: liberal social welfare social security public works environment progressive income tax labor union
+avg. distance to Democratic presidents = 0.336434753969
+avg. distance to Republican presidents = 0.309013662694
+
+
+
+Query: conservative big business limited small government entrepreneur trickle down economics private spending
+avg. distance to Democratic presidents = 0.293159908652
+avg. distance to Republican presidents = 0.327743216614
+
+
+
